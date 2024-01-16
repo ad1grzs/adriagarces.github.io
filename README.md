@@ -11,4 +11,4 @@ ESADE, Teaching Assistant
 ### Projects
 - Project 1
 - Project 2
-- [Another Page] (/adriagarces.github.io/another-page.html)
+- [Another Page] (./another-page.md)
