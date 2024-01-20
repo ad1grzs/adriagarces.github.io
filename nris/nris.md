@@ -6,4 +6,4 @@ layout: default
 
 Welcome to another page
 
-[Home](./)
+[Home](/adriagarces.github.io/)
