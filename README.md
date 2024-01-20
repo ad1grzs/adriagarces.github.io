@@ -13,5 +13,5 @@ In this page, I upload whatever I feel like can be useful for anyone to use or (
 
 ### Projects
 Find here several of the topics I work on or simply find interesting.
-- [Active Brownian Particles](./abps.md).
-- [Non Reciprocal Interactions](./nris.md).
+- [Active Brownian Particles](./abps/abps.md).
+- [Non Reciprocal Interactions](./nris/nris.md).
