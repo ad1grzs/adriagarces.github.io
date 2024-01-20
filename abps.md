@@ -12,7 +12,7 @@ leads to complex collective behaviors and patterns, making them a crucial focus 
 ABPs can be modelled using Langevin equations with both translational and rotational noise the following way, 
 
 $$
-\theta
+\frac{d\theta}{dt} = \sqrt{2D_{r}}\chi(t)
 $$
 
 [Home](./)
