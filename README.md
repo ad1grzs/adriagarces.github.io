@@ -12,6 +12,6 @@ In this page, I upload whatever I feel like can be useful for anyone to use or (
 > ESADE, Teaching Assistant (Sep. 2023 - Present)
 
 ### Projects
-Find here several of the topics I work on and some of what I find interesting.
+Find here several of the topics I work on or simply find interesting.
 - [Active Brownian Particles](./abps.md).
 - [Non Reciprocal Interactions](./nris.md).
