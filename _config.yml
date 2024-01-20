@@ -4,10 +4,11 @@ title: Adrià Garcés
 #show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
+plugins: jekyll-mathjax-2
 
-plugins:
-  - jekyll-mathjax-2
+# plugins:
+#   - jekyll-mathjax-2
 
-gems:
-  - jekyll-mathjax-2
+# gems:
+#   - jekyll-mathjax-2
 
