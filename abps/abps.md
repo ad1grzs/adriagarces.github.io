@@ -12,8 +12,13 @@ leads to complex collective behaviors and patterns, making them a crucial focus 
 ABPs can be modelled using Langevin equations with both translational and rotational noise the following way, 
 
 $$
-\frac{d \theta}{dt} = \sqrt{2D_r}\chi(t)
+\begin{cases}
+  \dot{\textbf{r}} = v_0(\textbf{r}) \hat{\nu}(\theta) + \sqrt{2D}\boldsymbol{\eta} (t)\\
+  \dot{\theta} = \sqrt{2 D_r}\chi(t),
+\end{cases}
 $$
+
+where $v_0(\textbf{r})$ is the self-propulsion velocity (that may or may not depend on the particles position), where $D$ and $D_r$ are respectively the translational and rotational diffusion coefficients, and where $\boldsymbol{eta}(t)$ and $\chi(t)$ represent Gaussian white noise with unity variance. Here, $\hat{\nu}(\theta) = (\cos \theta, \sin \theta)^T$ is the polar vector of the particle. Note how the rotational noise induces changes in the translational dynamics of each particle through the self-propulsion velocity and the particle's polar vector.
 
 
 [Home](/adriagarces.github.io/)
