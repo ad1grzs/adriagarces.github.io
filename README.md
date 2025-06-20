@@ -1,21 +1,52 @@
 # Introduction
-Greetings! I'm Adrià, a PhD student from Barcelona pursuing research in the field of Active Matter. I'm knee-deep in topics like Active Brownian Particles and Non-Reciprocal Interactions, even though I find interest in (mostly) anything regarding Statistical Physics, equilibrium or not. I hold deep respect and love for math in general.
 
-In this page, I upload whatever I feel like can be useful for anyone to use or (simply) for myself to keep track of what I do. Feel free to scroll through and explore, and do not hesitate to get in touch with me for any doubt you may have or mistake I may have made—welcome aboard!
+Welcome! My name is **Adrià**, and I am a PhD student in Physics at the *University of Barcelona*, working in the fascinating field of **Active Matter**. My research primarily focuses on systems such as *Active Brownian Particles* and *Non-Reciprocal Interactions*, although I am broadly interested in problems within **Statistical Physics**, both in and out of equilibrium. I also maintain a strong appreciation for mathematics and its foundational role in theoretical physics.
 
-### Education
-> PhD in Physics, *University of Barcelona* (2023 - Present)
->
-> MSc, Physics of Complex Systems and Biophysics, *University of Barcelona* (2023)
->
-> BSc, Theoretical Physics, *University of Barcelona* (2022)
+This page serves as a repository of materials I have produced—whether to share potentially useful content with others or simply to document and organise my own work. Feel free to explore, and do not hesitate to contact me if you have questions, comments, or spot any mistakes.
 
-### Projects
-Find here several of the topics I work on or simply find interesting.
-- [Active Brownian Particles](./abps/abps.md).
-- [Non Reciprocal Interactions](./nris/nris.md).
+---
 
-### Lecture Notes
-Here I upload some lecture notes that may be useful to others or to myself.
+## Education
 
-- 📄 [Differential Geometry Notes](./assets/geometria_diferencial_de_curvas_y_superficies.pdf)
+> **PhD in Physics**, *University of Barcelona* (2023 – Present)  
+> **MSc in Physics of Complex Systems and Biophysics**, *University of Barcelona* (2023)  
+> **BSc in Theoretical Physics**, *University of Barcelona* (2022)
+
+---
+
+## Projects
+
+Find here several topics I actively work on or find intellectually stimulating.
+
+- [Active Brownian Particles](./abps/abps.md)  
+- [Non-Reciprocal Interactions](./nris/nris.md)
+
+---
+
+## Lecture Notes
+
+This section contains lecture notes in Catalan, Spanish, and English, which may be helpful to students or researchers. Some are still in progress and will be updated periodically.
+
+- 📄 [Differential Geometry Notes (in Spanish)](./assets/geodif_notas.pdf)  
+- 📄 [Ordinary Differential Equations (in Catalan)](./assets/edos_apunts.pdf)
+
+---
+
+## Publications
+
+Here is a list of my publications. Click on a title to access the article.
+
+<ul>
+  <li>
+    <a href="https://iopscience.iop.org/article/10.1088/1742-5468/adc896" target="_blank">
+      <strong>Phase transitions in single species Ising models with non-reciprocal couplings</strong><br>
+      <em>Adrià Garcés, Demian Levis</em>, <i>Journal of Statistical Mechanics: Theory and Experiment (2025)</i>
+    </a>
+  </li>
+</ul>
+
+---
+
+## Contact
+
+Feel free to reach out by [email](mailto:adria.garces@gmail.com).
