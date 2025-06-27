@@ -16,7 +16,7 @@ This page serves as a repository of materials I have produced—whether to share
 
 ## Projects
 
-Find here several topics I actively work on or find intellectually stimulating.
+Find here several topics I actively work on or find stimulating.
 
 - [Active Brownian Particles](./abps/abps.md)  
 - [Non-Reciprocal Interactions](./nris/nris.md)
@@ -34,9 +34,15 @@ This section contains lecture notes in Catalan, Spanish, and English, which may 
 
 ## Publications
 
-Here is a list of my publications. Click on a title to access the article.
+List of publications I've authored and co-authored.
 
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2506.20610" target="_blank">
+      <strong>Depinning and activated motion of chiral self-propelled robots</strong><br>
+      <em>Juan Pablo Carrillo-Mora, Adrià Garcés, Demian Levis</em>, <i>arXiv preprint (2025)</i>
+    </a>
+  </li>
   <li>
     <a href="https://iopscience.iop.org/article/10.1088/1742-5468/adc896" target="_blank">
       <strong>Phase transitions in single species Ising models with non-reciprocal couplings</strong><br>
