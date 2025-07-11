@@ -14,15 +14,6 @@ This page serves as a repository of materials I have produced—whether to share
 
 ---
 
-## Projects
-
-Find here several topics I actively work on or find stimulating.
-
-- [Active Brownian Particles](./abps/abps.md)  
-- [Non-Reciprocal Interactions](./nris/nris.md)
-
----
-
 ## Lecture Notes
 
 This section contains lecture notes in Catalan, Spanish, and English, which may be helpful to students or researchers. Some are still in progress and will be updated periodically.
