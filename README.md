@@ -47,6 +47,18 @@ List of publications I've authored and co-authored.
 
 <ul>
   <li>
+    <a href="https://arxiv.org/abs/2606.06981" target="_blank">
+      <strong>Fate of the Ising universality class under nonreciprocal interactions</strong><br>
+      <em>M. Akritidis, <b>A. Garcés, A. Vasilopoulos, M. Carosi, D. Levis, N.G. Fytas</em>, <i>arXiv preprint (2026)</i>
+    </a>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2604.25745" target="_blank">
+      <strong>Universal transport of active colloids with sensory delay in motility landscapes</strong><br>
+      <em><b>Adrià Garcés, Ueli Töpfer, Lucio Isa, Demian Levis, Ignacio Pagonabarraga</em>, <i>arXiv preprint (2026)</i>
+    </a>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2603.11450" target="_blank">
       <strong>Time irreversibility and entropy production in non-Hermitian Model A field theories</strong><br>
       <em>Matthias Carosi, Ot Garcés, <b>Adrià Garcés</b>, Demian Levis</em>, <i>arXiv preprint (2026)</i>
