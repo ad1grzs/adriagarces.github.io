@@ -47,6 +47,12 @@ List of publications I've authored and co-authored.
 
 <ul>
   <li>
+    <a href="https://arxiv.org/abs/2611.18341" target="_blank">
+      <strong>Delay-induced current reversal in traveling activity waves</strong><br>
+      <em>Ueli Töpfer, <b>Adrià Garcés</b>, Miguel Chamorro-Burgos, Demian Levis, Alvaro Domínguez, Ignacio Pagonabarraga, Lucio Isa</em>, <i>arXiv preprint (2026)</i>
+    </a>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2606.06981" target="_blank">
       <strong>Fate of the Ising universality class under nonreciprocal interactions</strong><br>
       <em>M. Akritidis, <b>A. Garcés</b>, A. Vasilopoulos, M. Carosi, D. Levis, N.G. Fytas</em>, <i>arXiv preprint (2026)</i>
