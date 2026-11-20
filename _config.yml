@@ -1,15 +1,32 @@
+# Site settings
 title: Adrià Garcés
-#logo: /assets/images/pp_c.png
-#description: Minimal is a theme for GitHub Pages.
-#show_downloads: true
-#google_analytics:
-theme: jekyll-theme-minimal
-# plugins: jekyll-mathjax-2
+description: PhD student in Physics at the Universitat de Barcelona. Active matter, non-equilibrium statistical physics and stochastic processes.
+lang: en
 
-plugins:
-  - jekyll-mathjax-2
+# Project page: https://ad1grzs.github.io/adriagarces.github.io/
+url: https://ad1grzs.github.io
+baseurl: /adriagarces.github.io
 
-gems:
-  - jekyll-mathjax-2
+author:
+  name: Adrià Garcés
+  email: adria.garces@gmail.com
+  github: ad1grzs
 
-google_site_verification: nNCVVOXKvwpGX_EBF35YVVMEVQkL4zMEBZEHIHn6Nm0
+repo_url: https://github.com/ad1grzs/adriagarces.github.io
+
+# Paste here the content of your Google Search Console verification tag
+# (the value of <meta name="google-site-verification" content="...">)
+google_site_verification: ""
+
+# No remote theme: the design lives in _layouts, _includes and assets/css
+markdown: kramdown
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - "*~"
+  - "*.un~"
+  - Gemfile
+  - Gemfile.lock
+  - vendor

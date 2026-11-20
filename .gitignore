@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+Gemfile.lock
+vendor/
+
+# Editor backups
+*~
+*.un~
+.*.un~

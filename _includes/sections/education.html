@@ -1,0 +1,18 @@
+{%- comment -%} MODULE 02 · Education {%- endcomment -%}
+<section id="education" class="section section-alt">
+  <div class="container">
+    {% include section-head.html num="02" label="EDUCATION" title="Academic" accent="path." %}
+
+    <ol class="timeline">
+      {% for e in site.data.education %}
+      <li class="timeline-item">
+        <span class="timeline-period">{{ e.period }}</span>
+        <div class="card">
+          <h3>{{ e.degree }}</h3>
+          <p>{{ e.institution }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>

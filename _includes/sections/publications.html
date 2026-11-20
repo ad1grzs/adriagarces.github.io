@@ -1,0 +1,23 @@
+{%- comment -%} MODULE 05 · Publications {%- endcomment -%}
+<section id="publications" class="section">
+  <div class="container">
+    {% include section-head.html num="05" label="PUBLICATIONS" title="Selected" accent="papers." %}
+
+    <ol class="pub-list">
+      {% for p in site.data.publications %}
+      <li class="pub">
+        <span class="pub-num">{{ forloop.index | prepend: "00" | slice: -2, 2 }}</span>
+        <div class="pub-body">
+          <p class="pub-meta">
+            <span class="chip {% if p.status == 'Published' %}chip-ok{% endif %}">{{ p.status }}</span>
+            {{ p.venue }} · {{ p.year }}
+          </p>
+          <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+          <p class="pub-authors">{{ p.authors }}</p>
+          <a class="pub-link" href="{{ p.url }}">{{ p.label }} ↗</a>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>

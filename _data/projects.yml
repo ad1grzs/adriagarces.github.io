@@ -1,0 +1,15 @@
+- title: A Physicist's Perspective on Quantitative Finance
+  type: Repository
+  description: A GitHub repository that approaches quantitative finance with the tools of a physicist.
+  url: https://github.com/ad1grzs/A-Physicist-s-Perspective-on-Quantitative-Finance
+  external: true
+
+- title: Stochastic processes and finance I
+  type: Notes
+  description: Brownian motion and basic stochastic differential equations.
+  url: ""
+
+- title: Stochastic processes and finance II
+  type: Notes
+  description: Advanced topics, including option pricing.
+  url: ""

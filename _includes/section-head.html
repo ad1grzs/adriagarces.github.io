@@ -1,0 +1,8 @@
+{%- comment -%}
+  Reusable section heading.
+  Parameters: num, label, title, accent (last word in italics, optional)
+{%- endcomment -%}
+<header class="section-head">
+  <p class="eyebrow"><span class="eyebrow-num">{{ include.num }}</span> / {{ include.label }}</p>
+  <h2>{{ include.title }}{% if include.accent %} <em>{{ include.accent }}</em>{% endif %}</h2>
+</header>

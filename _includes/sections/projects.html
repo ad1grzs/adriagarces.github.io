@@ -1,0 +1,27 @@
+{%- comment -%} MODULE 04 · Quantitative finance projects {%- endcomment -%}
+<section id="projects" class="section section-alt">
+  <div class="container">
+    {% include section-head.html num="04" label="PROJECTS" title="Quantitative" accent="finance." %}
+
+    <p class="section-lead">Selected projects that apply the tools of statistical physics to stochastic processes and finance.</p>
+
+    <div class="card-grid cols-3">
+      {% for p in site.data.projects %}
+        {% if p.url != "" %}
+        <a class="card card-link" href="{{ p.url }}">
+          <div class="card-top"><span class="chip">{{ p.type }}</span></div>
+          <h3>{{ p.title }}</h3>
+          <p>{{ p.description }}</p>
+          <span class="card-cta">Open on GitHub ↗</span>
+        </a>
+        {% else %}
+        <div class="card">
+          <div class="card-top"><span class="chip">{{ p.type }}</span></div>
+          <h3>{{ p.title }}</h3>
+          <p>{{ p.description }}</p>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

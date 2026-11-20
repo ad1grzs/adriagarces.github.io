@@ -1,0 +1,50 @@
+# Titles are written from the topic of each paper: replace them with the exact titles.
+# `authors` accepts HTML, so your own name is highlighted with <strong>.
+
+- venue: arXiv preprint
+  year: 2026
+  status: Preprint
+  title: Delay-induced current reversal in activity waves
+  authors: "<strong>A. Garcés</strong>, U. Töpfer, M. Chamorro-Burgos, D. Levis, A. Domínguez, I. Pagonabarraga, L. Isa"
+  url: https://arxiv.org/abs/2611.18341
+  label: arXiv:2611.18341
+
+- venue: arXiv preprint
+  year: 2026
+  status: Preprint
+  title: Fate of the Ising universality class under non-reciprocal interactions
+  authors: "<strong>A. Garcés</strong>, M. Akritidis, A. Vasilopoulos, M. Carosi, D. Levis, N. G. Fytas"
+  url: https://arxiv.org/abs/2606.06981
+  label: arXiv:2606.06981
+
+- venue: arXiv preprint
+  year: 2026
+  status: Preprint
+  title: Universal transport of active colloids with sensory delay
+  authors: "<strong>A. Garcés</strong>, U. Töpfer, L. Isa, D. Levis, I. Pagonabarraga"
+  url: https://arxiv.org/abs/2604.25745
+  label: arXiv:2604.25745
+
+- venue: arXiv preprint
+  year: 2026
+  status: Preprint
+  title: Time irreversibility and entropy production in non-Hermitian Model A field theories
+  authors: "<strong>A. Garcés</strong>, M. Carosi, O. Garcés, D. Levis"
+  url: https://arxiv.org/abs/2603.11450
+  label: arXiv:2603.11450
+
+- venue: Physical Review E
+  year: 2025
+  status: Published
+  title: Pinning and activated motion of chiral self-propelled robots
+  authors: "<strong>A. Garcés</strong>, J. P. Carrillo-Mora, D. Levis"
+  url: https://journals.aps.org/pre/abstract/10.1103/7zmp-z893
+  label: Phys. Rev. E
+
+- venue: "J. Stat. Mech.: Theory and Experiment"
+  year: 2025
+  status: Published
+  title: Phase transitions in single-species Ising models with non-reciprocal couplings
+  authors: "<strong>A. Garcés</strong>, D. Levis"
+  url: https://iopscience.iop.org/article/10.1088/1742-5468/adc896
+  label: J. Stat. Mech.

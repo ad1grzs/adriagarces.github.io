@@ -1,0 +1,11 @@
+- title: Differential geometry
+  language: ES
+  language_name: Spanish
+  description: Lecture notes on differential geometry.
+  url: /assets/geodif_notas.pdf
+
+- title: Ordinary differential equations
+  language: CA
+  language_name: Catalan
+  description: Lecture notes on ordinary differential equations.
+  url: /assets/edos_apunts.pdf

@@ -1,0 +1,20 @@
+{%- comment -%} MODULE 01 · Introduction {%- endcomment -%}
+<section id="introduction" class="section">
+  <div class="container">
+    {% include section-head.html num="01" label="INTRODUCTION" title="About my" accent="research." %}
+
+    <div class="intro-grid">
+      <div class="prose">
+        {% for p in site.data.profile.intro %}
+        <p>{{ p }}</p>
+        {% endfor %}
+      </div>
+
+      <ul class="tags" aria-label="Research areas">
+        {% for t in site.data.profile.tags %}
+        <li>{{ t }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

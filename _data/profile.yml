@@ -1,0 +1,33 @@
+name: Adrià Garcés
+tagline_before: "Physics of"
+tagline_accent: "active matter."
+subtitle: PhD student in Physics at the Universitat de Barcelona, working on non-equilibrium statistical physics.
+affiliation: Universitat de Barcelona
+
+intro:
+  - "I am a PhD student in Physics at the Universitat de Barcelona. My research focuses on active matter, in particular active Brownian particles and non-reciprocal interactions."
+  - "I also work on equilibrium and non-equilibrium statistical mechanics, and on mathematics applied to theoretical physics."
+  - "This website gathers my materials, both to share them and to keep my own work organised. Feel free to get in touch."
+
+tags:
+  - Active matter
+  - Non-reciprocal interactions
+  - Statistical mechanics
+  - Stochastic processes
+
+keywords:
+  - active Brownian particles
+  - non-reciprocal interactions
+  - non-equilibrium statistical mechanics
+  - entropy production
+  - Ising models
+  - stochastic processes
+  - quantitative finance
+
+links:
+  - label: GitHub
+    url: https://github.com/ad1grzs
+  - label: arXiv
+    url: https://arxiv.org/
+  - label: Email
+    url: mailto:adria.garces@gmail.com

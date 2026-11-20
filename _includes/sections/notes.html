@@ -1,0 +1,22 @@
+{%- comment -%} MODULE 03 · Lecture notes {%- endcomment -%}
+<section id="notes" class="section">
+  <div class="container">
+    {% include section-head.html num="03" label="LECTURE NOTES" title="Notes to" accent="share." %}
+
+    <p class="section-lead">PDF notes written as study material. They are a work in progress and may contain errors.</p>
+
+    <div class="card-grid cols-2">
+      {% for n in site.data.notes %}
+      <a class="card card-link" href="{{ n.url | relative_url }}">
+        <div class="card-top">
+          <span class="chip" title="{{ n.language_name }}">{{ n.language }}</span>
+          <span class="card-type">PDF</span>
+        </div>
+        <h3>{{ n.title }}</h3>
+        <p>{{ n.description }}</p>
+        <span class="card-cta">Open notes →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
