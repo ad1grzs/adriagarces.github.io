@@ -5,7 +5,7 @@
   year: 2026
   status: Preprint
   title: Delay-induced current reversal in activity waves
-  authors: "<strong>A. Garcés</strong>, U. Töpfer, M. Chamorro-Burgos, D. Levis, A. Domínguez, I. Pagonabarraga, L. Isa"
+  authors: "U. Töpfer, <strong>A. Garcés</strong>, M. Chamorro-Burgos, D. Levis, A. Domínguez, I. Pagonabarraga, L. Isa"
   url: https://arxiv.org/abs/2611.18341
   label: arXiv:2611.18341
 
@@ -13,7 +13,7 @@
   year: 2026
   status: Preprint
   title: Fate of the Ising universality class under non-reciprocal interactions
-  authors: "<strong>A. Garcés</strong>, M. Akritidis, A. Vasilopoulos, M. Carosi, D. Levis, N. G. Fytas"
+  authors: "M. Akritidis, <strong>A. Garcés</strong>, A. Vasilopoulos, M. Carosi, D. Levis, N. G. Fytas"
   url: https://arxiv.org/abs/2606.06981
   label: arXiv:2606.06981
 
@@ -29,7 +29,7 @@
   year: 2026
   status: Preprint
   title: Time irreversibility and entropy production in non-Hermitian Model A field theories
-  authors: "<strong>A. Garcés</strong>, M. Carosi, O. Garcés, D. Levis"
+  authors: "M. Carosi, O. Garcés, <strong>A. Garcés</strong>, D. Levis"
   url: https://arxiv.org/abs/2603.11450
   label: arXiv:2603.11450
 
@@ -37,7 +37,7 @@
   year: 2025
   status: Published
   title: Pinning and activated motion of chiral self-propelled robots
-  authors: "<strong>A. Garcés</strong>, J. P. Carrillo-Mora, D. Levis"
+  authors: "J. P. Carrillo-Mora, <strong>A. Garcés</strong>, D. Levis"
   url: https://journals.aps.org/pre/abstract/10.1103/7zmp-z893
   label: Phys. Rev. E
 
